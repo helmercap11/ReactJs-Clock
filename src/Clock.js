@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Clock from 'react-clock';
-import 'src/Clocks.css';
+import './Clocks.css';
 
 export class Cloc extends Component {
     state = {
